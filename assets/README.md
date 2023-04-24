@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
-Description
+Test Desc
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,7 +14,7 @@ Description
 - [Questions](#questions)
 
 ## Installation
-Install Instructions
+Test install instructions
 
 ## Usage
 usage information
@@ -23,7 +23,7 @@ usage information
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing
-contribution guidlines
+contribution guidelines
 
 ## Tests
 test instructions
